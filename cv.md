@@ -2,7 +2,7 @@
 
 1. **Akhmetov Kuanysh**
 
-2. **+7 (777)-868-46-43** 
+2. **refysi2107@gmail.com** 
 
 3. My name is *Kuanysh*, I am 22 years old, I live in *Kazakhstan*. This year I graduated from the university with a degree in computer *hardware and software*. My goal in this course is to master knowledge of the front-end in order to work in this area in the future. During my studies at the university, I studied a little html css and java script, but in practice I did not use it. I like web development and I'm not bad at it.
 
