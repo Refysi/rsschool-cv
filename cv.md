@@ -16,3 +16,5 @@
 5. I have no work experience, I took free courses on html css on various resources, as well as video lessons on YouTube
  
 6. My English level is **pre-intermediate** (A2)
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--qc_GPsrm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/y932df8rdy0bwn1jzdrq.jpg)
